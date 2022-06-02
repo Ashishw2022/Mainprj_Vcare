@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664958051681",
+    "firebase_url": "https://diseasepredict-fbe30-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "diseasepredict-fbe30",
+    "storage_bucket": "diseasepredict-fbe30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664958051681:android:ea366a71beaeb2dec51120",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664958051681-kujhsqcbogfho42dv494l5gfmqfegii2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWNUZ_9OxJ4k_eUcWgNhejLcptum9TFio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664958051681-kujhsqcbogfho42dv494l5gfmqfegii2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

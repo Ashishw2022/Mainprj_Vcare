@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Phyzician/app/src/main/res/layout/activity_admin_.xml" value="0.22826086956521738" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_admin.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_admin_.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_admin__doctor__details.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_admin_all_user_adapter.xml" value="0.1" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_admin_payment.xml" value="0.14945652173913043" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_admin_user_details.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_appointments.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_doctor_choose_slots.xml" value="0.25416666666666665" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_doctors_login.xml" value="0.2" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_patient_book_appointment.xml" value="0.14945652173913043" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_signup.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_start.xml" value="0.11041666666666666" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_user_profile.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_useradmin.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/activity_verify_otp.xml" value="0.11041666666666666" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/adminnav.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/data.xml" value="0.25416666666666665" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/header.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/toolbar.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/whealth_duration.xml" value="0.11041666666666666" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/layout/whealth_predicted.xml" value="0.22327898550724637" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/menu/admin_menu.xml" value="0.25052083333333336" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/menu/doctor_menu.xml" value="0.25052083333333336" />
+        <entry key="..\:/S4 mainprj/Phyzician/app/src/main/res/menu/patient_menu.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
